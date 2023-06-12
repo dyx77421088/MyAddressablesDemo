@@ -1,0 +1,3 @@
+{Application.persistentDataPath}
+
+http://localhost:3000/gameobject/defaultlocalgroup_assets_all.bundle
